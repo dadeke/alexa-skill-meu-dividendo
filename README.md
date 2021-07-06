@@ -8,7 +8,7 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 [![Stargazers](https://img.shields.io/github/stars/dadeke/alexa-skill-meu-dividendo?style=social)](https://github.com/dadeke/alexa-skill-meu-dividendo/stargazers)
 
-Repositório do código fonte da skill da Alexa: [Meu Dividendo](#loja).
+Repositório do código fonte da skill da Alexa: [Meu Dividendo](https://www.amazon.com.br/DD-Tecnologia-Meu-Dividendo/dp/B098R3CMT6/).
 
 Compatível com o "Import skill" do Alexa Developer Console.
 [![Compatível com o Import skill](https://i.imgur.com/65L4f3f.png)](https://developer.amazon.com/alexa/console/ask/create-new-skill)
