@@ -1,7 +1,7 @@
 # Skill da Alexa: Meu Dividendo
 
-[![Build Status](https://travis-ci.com/dadeke/alexa-skill-meu-dividendo.svg?branch=master)](https://travis-ci.com/github/dadeke/alexa-skill-meu-dividendo)
-[![Coverage Status](https://codecov.io/gh/dadeke/alexa-skill-meu-dividendo/branch/master/graph/badge.svg)](https://codecov.io/gh/dadeke/alexa-skill-meu-dividendo)
+[![Build Status](https://travis-ci.com/dadeke/alexa-skill-meu-dividendo.svg?branch=main)](https://travis-ci.com/github/dadeke/alexa-skill-meu-dividendo)
+[![Coverage Status](https://codecov.io/gh/dadeke/alexa-skill-meu-dividendo/branch/main/graph/badge.svg)](https://codecov.io/gh/dadeke/alexa-skill-meu-dividendo)
 [![ESLint](https://img.shields.io/badge/eslint-6.8.0-4b32c3?style=flat-square&logo=eslint)](https://eslint.org/)
 [![Airbnb Style](https://flat.badgen.net/badge/style-guide/airbnb/ff5a5f?icon=airbnb)](https://github.com/airbnb/javascript)
 [![Jest](https://img.shields.io/badge/jest-26.6.3-brightgreen?style=flat-square&logo=jest)](https://jestjs.io/)
