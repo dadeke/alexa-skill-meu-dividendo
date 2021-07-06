@@ -1,0 +1,68 @@
+{
+  "manifest": {
+    "publishingInformation": {
+      "locales": {
+        "pt-BR": {
+          "summary": "A skill Meu Dividendo informa a data dos últimos pagamentos de dividendos das suas ações.",
+          "examplePhrases": [
+            "Alexa, abrir Meu Dividendo",
+            "Alexa, pagamento do Meu Dividendo"
+          ],
+          "keywords": [
+            "b3",
+            "bolsa",
+            "dividendos",
+            "proventos",
+            "petrobrás",
+            "petr4",
+            "vale",
+            "vale3",
+            "aposentadoria",
+            "riqueza",
+            "dinheiro"
+          ],
+          "name": "Meu Dividendo",
+          "description": "A skill Meu Dividendo informa a data dos últimos pagamentos de dividendos das suas ações.\n\nPrimeiro abra seu aplicativo Alexa, vá em \"Listas e notas\" e crie uma lista com o nome \"Dividendo\". Depois adicione o código das suas ações pagadoras de dividendos.\nUm código em cada item da lista. Exemplo:\nITUB4\nGRND3\nVALE3\n\nDepois diga \"Alexa, abrir Meu Dividendo\".\n\n# Limitações:\n- Suporta apenas ações listadas na B3.\n- A fim de que seja possível responder em tempo hábil, essa skill irá consultar apenas os três primeiros códigos inseridos na sua lista.\n\n----------------\n\nGostou da skill Meu Dividendo? Por favor, deixe uma avaliação! Muito obrigado!\n\nPara dar feedback sobre esta skill, entre em contato através do e-mail: oi@dd.tec.br\n\n----------------\n\nVocê pode visualizar o histórico de atualizações e contribuir para o código fonte desta skill no GitHub - https://github.com/dadeke/alexa-skill-meu-dividendo\n\n----------------\n\n\"Esforcem-se para ter uma vida tranquila, cuidar dos seus próprios negócios e trabalhar com as próprias mãos...\" 1 Tessalonicenses 4:11 NVI"
+        }
+      },
+      "automaticDistribution": {
+        "sourceLocaleForLanguages": [],
+        "isActive": false
+      },
+      "isAvailableWorldwide": false,
+      "testingInstructions": "Instruções para teste.",
+      "category": "BUSINESS_AND_FINANCE",
+      "distributionMode": "PUBLIC",
+      "distributionCountries": [
+        "BR"
+      ]
+    },
+    "apis": {
+      "custom": {
+        "endpoint": {
+          "uri": "ask-custom-meu-dividendo-default"
+        },
+        "interfaces": []
+      }
+    },
+    "manifestVersion": "1.0",
+    "permissions": [
+      {
+        "name": "alexa::household:lists:read"
+      }
+    ],
+    "privacyAndCompliance": {
+      "allowsPurchases": false,
+      "locales": {
+        "pt-BR": {
+          "termsOfUseUrl": "https://github.com/dadeke/alexa-skill-meu-dividendo/blob/main/tos_pt-br.md#termos-de-servi%C3%A7o-da-dd-tecnologia",
+          "privacyPolicyUrl": "https://github.com/dadeke/alexa-skill-meu-dividendo/blob/main/privacy-policy_pt-br.md#pol%C3%ADtica-de-privacidade-da-dd-tecnologia"
+        }
+      },
+      "containsAds": false,
+      "isExportCompliant": true,
+      "isChildDirected": false,
+      "usesPersonalInfo": false
+    }
+  }
+}
